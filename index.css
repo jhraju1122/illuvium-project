@@ -5,6 +5,8 @@
 #playnow-btn{
     height: 50px;
     width: 150px;
+    color: white;
+    font: 700;
 }
 
 #baner-title-photo{
@@ -12,11 +14,38 @@
     width: 500px;
 }
 
-#play-btn{
-    color: white;
-    font: 700;
-}
+ 
 #notice{
     margin-top: 30px;
     font-weight: 500;
 }
+
+ul{
+    color: aliceblue;
+}
+#nav-btn{
+    color: aliceblue;
+}
+.navbar-start{
+    width: 16%;
+}
+
+h1,p{
+    color: white;
+}
+ 
+
+#carrousell-section{
+    margin-top: 300px;
+    margin-left: 30px;
+}
+#Overworld{
+    font-size: 30px;
+}
+#coruessel-slide{
+    width: 50%;
+}
+.w-100{
+    width: 774px;
+}
+ 
