@@ -6,3 +6,17 @@
     height: 50px;
     width: 150px;
 }
+
+#baner-title-photo{
+    height: 300px;
+    width: 500px;
+}
+
+#play-btn{
+    color: white;
+    font: 700;
+}
+#notice{
+    margin-top: 30px;
+    font-weight: 500;
+}
