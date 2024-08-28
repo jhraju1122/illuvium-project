@@ -49,3 +49,40 @@ h1,p{
     width: 774px;
 }
  
+/* .frame {
+    width: 300px;
+    height: 300px;
+    border: 3px solid #ccc;
+    background: #eee;
+    margin: auto;
+    padding: 15px 10px;
+  } */
+  img {
+    width: 400px;
+    height: 300px;
+  }
+  #war-materials{
+    width: 300px;
+    height: 200px;
+    margin-left: 65%;
+  }
+  #arena-img{
+    background-repeat: no-repeat;
+     
+  }
+
+  #Conquer-the-Arena-card{
+    height: 200px;
+    width: 500px;
+    background-color: #282626a9;
+    margin-top: 1633px;
+    position: relative;
+    margin-left: 400px;
+    text-align: center;
+  }
+
+  .proudly-supporting{
+    width: 400px;
+    margin-left: 40px;
+  }
+   
