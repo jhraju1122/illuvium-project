@@ -92,14 +92,22 @@ h1,p{
   }
   #arena-img{
     background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
      
+  }
+  .content-fit{
+    background: cover;
+    width: 100%;
   }
 
   #Conquer-the-Arena-card{
     height: 200px;
     width: 500px;
     background-color: #282626a9;
-    margin-top: 1633px;
+    /* margin-top: 1550px; */
+     
+
     position: relative;
     margin-left: 400px;
     text-align: center;
@@ -112,17 +120,21 @@ h1,p{
    
 
 #Illuvitars-card{
-    margin-top: 600px;
-    margin-left: 0%;
+    margin-top: 200px;
+    margin-left: -400px;
     width: 900px;
     height: 400px;
     background-color: #00000072;
 }
 #Harvest-resources{
     width: 900px;
+     
     height: 400px;
-    margin-top: 500px;
+    margin-top: 900px;
    background-color: #00000072;
+   margin-right: 50px;
 }
 
- 
+ #bg-size{
+    background-size: 100% 100%;
+ }
